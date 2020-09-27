@@ -1,0 +1,4 @@
+INSERT INTO PROFESSOR_DEGREES
+  -> VALUE (173355989, 'M.S'),
+           (518067884, 'M.S'),
+           (540123786, 'PhD');
